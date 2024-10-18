@@ -1,0 +1,18 @@
+# ninja log v6
+5	162	1729052175142511100	CMakeFiles/orderingAlgorithms.dir/bruno_kaua_sort.c.o	f3bdc18f89264484
+4	196	1728914222908623100	build.ninja	17a772296c5e29d8
+5	249	1728841214355379600	CMakeFiles/orderingAlgorithms.dir/countingSort.c.o	b78f68b67a66fd9a
+162	283	1729052175299353700	orderingAlgorithms.exe	39041fae9767bfea
+4	170	1728874979090916100	CMakeFiles/orderingAlgorithms.dir/main.c.o	428e6073decdb30a
+29	191	1728842323696406100	CMakeFiles/orderingAlgorithms.dir/cygdrive/c/Users/dudab/Downloads/tempo.c.o	8eabd839c30ef99
+23	141	1728850714617326300	CMakeFiles/orderingAlgorithms.dir/quicksort.c.o	36989118305cef8f
+19	722	1729209746368530300	CMakeFiles/orderingAlgorithms.dir/bruno_kaua_sort.c.o	f3bdc18f89264484
+723	1051	1729209747071876000	orderingAlgorithms.exe	39041fae9767bfea
+5	1350	1729215573424577300	CMakeFiles/orderingAlgorithms.dir/bruno_kaua_sort.c.o	f3bdc18f89264484
+1351	1661	1729215574770663700	orderingAlgorithms.exe	39041fae9767bfea
+6	259	1729215861890773500	CMakeFiles/orderingAlgorithms.dir/bruno_kaua_sort.c.o	f3bdc18f89264484
+260	414	1729215862144005100	orderingAlgorithms.exe	39041fae9767bfea
+5	169	1729216113625100400	CMakeFiles/orderingAlgorithms.dir/bruno_kaua_sort.c.o	f3bdc18f89264484
+170	320	1729216113789562000	orderingAlgorithms.exe	39041fae9767bfea
+7	187	1729216119688923300	CMakeFiles/orderingAlgorithms.dir/bruno_kaua_sort.c.o	f3bdc18f89264484
+187	338	1729216119869224100	orderingAlgorithms.exe	39041fae9767bfea

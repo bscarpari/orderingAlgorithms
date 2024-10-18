@@ -1,0 +1,1 @@
+Tamanho: 1000000, Ordem: 0, Média de Tempo: 0.003545 segundos

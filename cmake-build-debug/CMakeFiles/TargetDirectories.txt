@@ -1,0 +1,3 @@
+/cygdrive/c/Users/dudab/Desktop/orderingAlgorithms/cmake-build-debug/CMakeFiles/orderingAlgorithms.dir
+/cygdrive/c/Users/dudab/Desktop/orderingAlgorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/dudab/Desktop/orderingAlgorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
